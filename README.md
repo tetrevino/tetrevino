@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tomas</h1>
-<h3 align="center">An aspiring software developer from CA</h3>
+<h3 align="center">Full Stack Web Developer | JavaScript, React, Ruby, Rails, PostgreSQL | U.S. Army Veteran |CA</h3>
 
 - 📫 How to reach me **tomastrevino@skiff.com**
 
