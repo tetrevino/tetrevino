@@ -5,7 +5,7 @@
 
 - ⚡ Fun fact **I love to rock climb**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: www.linkedin.com/in/tomas-trevino</h3>
 <p align="left">
 </p>
 
